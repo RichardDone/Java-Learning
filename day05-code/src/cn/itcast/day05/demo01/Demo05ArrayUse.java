@@ -27,6 +27,5 @@ public class Demo05ArrayUse {
         System.out.println(array[0]);
         System.out.println(array[1]);
         System.out.println(array[2]);
-
     }
 }
